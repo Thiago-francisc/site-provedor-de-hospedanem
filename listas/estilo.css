@@ -1,0 +1,346 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+   overflow-x: hidden;
+}
+
+header{
+    height: 165px;
+}
+
+.logotop{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 250px;
+    bottom: 634px;
+
+}
+.logotop2{
+    width: 70px;
+    height: 70px;
+   position: absolute;
+   bottom: -2255px;
+   left: 695px;
+}
+
+.logotop{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 250px;
+    bottom: 634px;
+
+}
+.topo{
+    font-size: 32px;
+    font-family: 'Poppins',sans-serif;
+    
+    position: relative;
+    left: 330px;
+    top: 26px;
+    
+}
+
+
+.topo3{
+    font-size: 32px;
+    font-family: 'Poppins',sans-serif;
+    
+    position: relative;
+    left: 15px;
+    top: 26px;
+    
+}
+.topo4{
+    font-size: 17px;
+    font-family: 'Poppins',sans-serif;
+    color: #2f86d6;
+    position: relative;
+    left: 15px;
+    top: 23px;
+}
+
+.topo1{
+    font-size: 17px;
+    font-family: 'Poppins',sans-serif;
+    color: #2f86d6;
+    position: relative;
+    left: 330px;
+    top: 23px;
+}
+
+.link{
+    text-align: center;
+    padding-right: 45px;
+    position: relative;
+    left: 890px;
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    
+
+}
+
+.banner{
+    background-color: #2f86d6;
+    color: white;
+    
+    
+}
+.primeiro{
+    position: relative;
+    left: 289px;
+    bottom: -270px;
+    max-width: 330px;
+}
+
+.segundo{
+    font-weight: bold;
+    font-size: 30px;
+    max-width: 310px;
+    position: relative;
+    left: 289px;
+    bottom: -270px;
+    max-width: 330px;
+}
+
+
+.terceiro{
+    max-width: 320px;
+    font-size: 20px;
+    position: relative;
+    left: 289px;
+    bottom: -270px;
+    max-width: 330px;
+    
+}
+
+.imgb{
+    position: relative;
+    left: 680px;
+    bottom: 105px;
+}
+
+
+.propaganda{
+    color: #ffffff;
+    background-color: #0c365e;
+    text-align: center;
+                     /* Espaço entre texto e botão */
+  margin: 0;
+  height:115px;
+  
+}
+.propaganda2{
+    color: #ffffff;
+    background-color: #2f86d6;
+    text-align: center;
+                     /* Espaço entre texto e botão */
+  margin: 0;
+  height:115px;
+
+}
+a{
+    text-decoration: none;
+    color: #f6f6f6;
+}
+.pro1{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button{
+    background-color:#2f86d6;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 12px;
+    border-color: #ffffff;
+    border-radius: 5%;
+    display:inline;
+  align-items:center;
+  position: absolute;
+  right: 320px;
+  gap: 19px;
+  top: 1000px;
+  
+    
+  
+}
+.botao{
+
+    background-color:#0c365e;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 12px;
+    border-color: #ffffff;
+    border-radius: 5%;
+    display:inline;
+  align-items:center;
+  position: absolute;
+  right: 320px;
+  gap: 19px;
+  top: 2800px;
+
+}
+span{
+    color: #2f86d6;
+}
+.titulo{
+    text-align: center;
+    color: #000000;
+}
+
+.im1{
+    width: 285px;
+    height: 285px;
+    text-align: center;
+    padding: 35px;
+    position: absolute;
+    left: 240px;
+    
+    
+}
+
+.im2{
+    width: 285px;
+    height: 285px;
+    text-align: center;
+    padding: 35px;
+    position: absolute;
+    left: 680px;
+    
+    
+}
+.im3{
+    width: 285px;
+    height: 285px;
+    text-align: center;
+    padding: 35px;
+    position: absolute;
+    left: 1100px;
+    top:1300px;
+    
+    
+}
+.duvida {
+    text-align: center;
+    margin: 0;
+    height: 700px;
+}
+
+.p1{
+    font-weight: bold;
+    position: absolute;
+    left: 300px;
+    bottom: -850px;
+}
+
+.p2{
+     font-weight: bold;
+    position: absolute;
+    left: 730px;
+    bottom: -850px;
+
+}
+.pp2{
+    position: absolute;
+    left: 670px;
+    bottom: -950px;
+    max-width: 300px;
+
+}
+
+.pp1{
+    position: absolute;
+    left: 240px;
+    bottom: -950px;
+    max-width: 300px;
+    
+}
+
+.p3{
+    font-weight: bold;
+    position: absolute;
+    left: 1180px;
+    bottom: -850px;
+}
+
+.pp3{
+position: absolute;
+    left: 1070px;
+    bottom: -950px;
+    max-width: 300px;
+}
+
+.lista{
+    background-color: #f6f6f6;
+    padding: 60px;
+}
+
+table{
+    text-align: center;
+    padding: 35px;
+   border: 5px;
+   box-shadow: 0 10px 20px rgba(0, 123, 255, 0.4);
+   
+   
+}
+
+.pessoal{
+    height: 320px;
+    width: 320px;
+}
+
+tr{
+    background-color: #ffffff;
+    height: 150px;
+}
+
+
+tbody{
+    font-weight: bold;
+    padding: 15px;
+    height: 150px;
+    
+}
+
+.branco{
+    background-color: #ffffff;
+    padding: 15px;
+    height: 30px;
+    
+}
+
+.cinza{
+   padding: 15px;
+   height: 30px;
+   background-color: #f6f6f6;
+}
+table td, table th {
+    padding: 16px 12px; /* 16px altura, 12px lateral */
+}
+
+.contato{
+
+    height: 350px;
+    text-align: center;
+    padding-left: 150px;
+}
+
+.cont{
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+
+footer{
+    background-color: #f6f6f6;
+    color: #000000;
+    text-align: center;
+    padding: 25px;
+    font-size: 20px;
+}
+   
